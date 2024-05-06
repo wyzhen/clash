@@ -1,0 +1,3 @@
+proxies:
+
+ - {"name": "日本-大阪", "type": "trojan", "server": "www.yongzhen666.top", "password": "1142199063", "udp": true, "port": 443}
