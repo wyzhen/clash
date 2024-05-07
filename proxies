@@ -1,10 +1,6 @@
 proxies:
 
- - {"name": "日本-大阪", "type": "trojan", "server": "www.yongzhen666.top", "password": "1142199063", "udp": true, "port": 443}
-
- - {"name": "日本-东京1", "type": "trojan", "server": "b.yongzhen666.top", "password": "1142199063", "udp": true, "port": 443}
-
- - {"name": "日本-东京2", "type": "trojan", "server": "tokyo2.yongzhen666.top", "password": "1142199063", "udp": true, "port": 443}
+ - {"name": "日本-东京", "type": "trojan", "server": "tokyo.yongzhen666.top", "password": "1142199063", "udp": true, "port": 443}
 
  - {"name": "新加坡", "type": "trojan", "server": "a.yongzhen666.top", "password": "1142199063", "udp": true, "port": 443}
 
