@@ -28,7 +28,7 @@ proxy-providers:
   yongzhen-all:
       type: http
       url: https://raw.githubusercontent.com/wyzhen/clash/main/proxies
-      interval: 3600
+      interval: 10
       path: ./providers/yongzhen-all.yaml
       health-check:
         enable: true
