@@ -1,2 +1,2 @@
 proxies:
- - {"name": "美国-硅谷", "type": "trojan", "server": "d.yongzhen666.top", "password": "1142199063", "udp": true, "port": 443}
+ - {"name": "美国-硅谷", "type": "trojan", "server": "e.yongzhen666.top", "password": "1142199063", "udp": true, "port": 443}
